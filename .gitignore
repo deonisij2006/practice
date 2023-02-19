@@ -1,0 +1,7 @@
+*/build/*
+*.jar
+!/src/modules/module-2/build/module2.jar
+.idea
+.idea_copy
+!.idea_copy/workspace.xmlmodule2.jar
+module2.jar
